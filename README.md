@@ -1,5 +1,5 @@
 # embedded-system
-![image](https://github.com/jsh9645/embedded-system/assets/103232916/e449a843-67fb-47d1-a8cf-28f1bd121e63)
+![1](https://github.com/jsh9645/embedded-system/assets/103232916/d8542ead-d4ae-46f2-abda-3cb44faa7988)
 ![image](https://github.com/jsh9645/embedded-system/assets/103232916/db81274b-49e4-4b30-b95c-90ba891e7c5c)
 ![image](https://github.com/jsh9645/embedded-system/assets/103232916/098a89fb-ba53-4c99-9090-356f9b44a1ce)
 ![image](https://github.com/jsh9645/embedded-system/assets/103232916/c737a152-5588-4fe7-84b5-338bc018d95d)
