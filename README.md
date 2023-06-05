@@ -8,5 +8,3 @@
 ![image](https://github.com/jsh9645/embedded-system/assets/103232916/9daf54de-ecf0-4e04-a9c3-04e1a8474eae)
 ![image](https://github.com/jsh9645/embedded-system/assets/103232916/448651a7-1cab-40c8-8baf-f1e7337a4f67)
 
-
-
