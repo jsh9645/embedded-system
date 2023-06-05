@@ -7,4 +7,4 @@
 ![image](https://github.com/jsh9645/embedded-system/assets/103232916/72a517aa-857d-4ec3-8ec6-14967e54d52d)
 ![image](https://github.com/jsh9645/embedded-system/assets/103232916/9daf54de-ecf0-4e04-a9c3-04e1a8474eae)
 ![image](https://github.com/jsh9645/embedded-system/assets/103232916/448651a7-1cab-40c8-8baf-f1e7337a4f67)
-https://youtu.be/Xst8rh9juRU
+[https://youtu.be/Xst8rh9juRU](https://youtu.be/GOAGsEVFgOw)
