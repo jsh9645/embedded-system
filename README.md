@@ -11,7 +11,4 @@
 ![image](https://github.com/jsh9645/embedded-system/assets/103232916/448651a7-1cab-40c8-8baf-f1e7337a4f67)
 
 
-https://github.com/jsh9645/embedded-system/assets/103232916/8e2688da-b451-4aaf-8d72-25994bb41f91
-
-
 
